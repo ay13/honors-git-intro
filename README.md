@@ -1,5 +1,7 @@
 # Git Intro
 
+![Tests](https://github.com/ay13/honors-git-intro/workflows/Tests/badge.svg?branch=master)
+
 [Play Me!](https://youtu.be/G5bqk_nSic0)
 
 [Jest Documentation](https://jestjs.io/en/)
